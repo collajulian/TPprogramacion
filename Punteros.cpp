@@ -14,5 +14,5 @@ cin>>y;
 p = &y;
 cout<<"direccion "<<p <<" contenido "<< x << endl;
 cout<<"direccion "<<&y <<" contenido "<< *p << endl;
-
+// Julian = puto
 }
